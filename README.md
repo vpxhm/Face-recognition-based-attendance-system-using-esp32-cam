@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Face Recognition-Based Attendance System Using ESP32-CAM</h1>
+  <h1>Face Recognition-Based Attendance System Using
+    ESP32-CAM</h1>
 </div>
 
 
