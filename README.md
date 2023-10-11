@@ -32,3 +32,7 @@ In this project, you can connect any webcam by changing the index number of the 
 ## Home Page
 
 ![Home Page](./IMG_20230624_195013.jpg)
+
+## Circuit Diagram
+
+![Home Page](./Circuit-diagram.jpg)
