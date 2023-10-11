@@ -1,4 +1,7 @@
-# Face Recognition-Based Attendance System Using ESP32-CAM
+<div align="center">
+  <h1>Face Recognition-Based Attendance System Using ESP32-CAM</h1>
+</div>
+
 
 Welcome to the Face Recognition-Based Attendance System project, where we leverage the power of ESP32-CAM and Arduino Nano to create an innovative attendance management solution.
 
